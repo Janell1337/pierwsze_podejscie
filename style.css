@@ -1,0 +1,12 @@
+.grid-container
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.grid-item
+{
+    color: red;
+    font-weight: 300;
+    font-size: 19px;
+    text-decoration: underline;
+}
